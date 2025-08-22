@@ -64,15 +64,15 @@
     }
   ],
   "codeowners": [
-    "@dknowles2"
+    "@samclark2015"
   ],
   "config_flow": true,
   "dependencies": [
     "bluetooth_adapters"
   ],
-  "documentation": "https://github.com/dknowles2/ha-pitboss",
+  "documentation": "https://github.com/samclark2015/ha-pitboss",
   "iot_class": "local_push",
-  "issue_tracker": "https://github.com/dknowles2/ha-pitboss/issues",
+  "issue_tracker": "https://github.com/samclark2015/ha-pitboss/issues",
   "loggers": [
     "pytboss"
   ],
