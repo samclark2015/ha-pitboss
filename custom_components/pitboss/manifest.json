@@ -77,7 +77,7 @@
     "pytboss"
   ],
   "requirements": [
-    "pytboss==2025.7.0"
+    "pytboss@git+https://github.com/samclark2015/pytboss.git@main"
   ],
   "version": "0000.0.0"
 }
